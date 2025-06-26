@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💼 Data Engineering Portfolio – Jill Shah
 
-<!--
-**JillShah11/JillShah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to my curated portfolio of data engineering projects!  
+# Each section below represents a focus area with links to individual GitHub repositories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Python Projects
+### 🐍 [Python Basics](https://github.com/JillShah11/python)  
+### 🌐 [Flask API Example](https://github.com/JillShah11/Python_Flask)
+
+---
+
+## 📂 Azure Data Factory
+### 📊 [ADF Dataset](https://github.com/JillShah11/ADF_Dataset)  
+### 🔄 [ADF Copy Activity](https://github.com/JillShah11/ADF_COPY_ACTIVTY)
+
+---
+
+## 📂 Big Data & Visualization
+### 🧪 [Databricks Notebooks](https://github.com/JillShah11/Databricks-Notebook)  
+### 📈 [Big Data Visualisations](https://github.com/JillShah11/Visualisations_Big_Data)
+
+---
+
+# 🔗 Let's connect!
+## 📫 [LinkedIn](#)  🧠 [Blog](#)  🌐 [Portfolio Website](#)
+
