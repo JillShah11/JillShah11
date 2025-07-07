@@ -1,6 +1,6 @@
 # 💼 Portfolio – Jill Shah
 
-# 👋 Welcome to my curated portfolio of filled with projects!  
+# 👋 Welcome 
 # Each section below represents a focus area with links to individual GitHub repositories.
 
 ---
