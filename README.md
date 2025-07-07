@@ -1,6 +1,6 @@
-# 💼 Data Engineering Portfolio – Jill Shah
+# 💼 Portfolio – Jill Shah
 
-# 👋 Welcome to my curated portfolio of data engineering projects!  
+# 👋 Welcome to my curated portfolio of filled with projects!  
 # Each section below represents a focus area with links to individual GitHub repositories.
 
 ---
